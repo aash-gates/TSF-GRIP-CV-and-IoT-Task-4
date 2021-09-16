@@ -1,1 +1,2 @@
 tensorflow>=1.15.2
+imutils==0.5.3
